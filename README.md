@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Victor Belotto 🤚
 
-
+<br/>
 
 <div aling="center">
   <img src="https://user-images.githubusercontent.com/108822052/214183469-1ace81b8-a5d6-4aab-81fa-d8b05f89cdea.png" width="200px"/ align="left">
@@ -14,7 +14,7 @@
  </div >
  
 <br/>
-<br/>
+
 <div aling="center"> <br/>
 
 ## Tecnologias
