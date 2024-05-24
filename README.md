@@ -3,13 +3,6 @@
 <br/>
 
 <div aling="center">
- 
-  
-  <p align="right">
-  
-   ![VictorBelotto GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorBelotto&show_icons=true&theme=dracula)
-  
-  </p>
   
  </div >
  
