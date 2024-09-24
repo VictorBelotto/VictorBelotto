@@ -2,7 +2,7 @@
 
 <br/>
 Sou estudante do 4º semestre de Análise e Desenvolvimento de Sistemas e estou me especializando como desenvolvedor Front End. Aqui no GitHub, compartilho projetos onde aplico e aprimoro minhas habilidades em tecnologias como JavaScript, React.js, Next.js, Java, HTML, CSS e PHP.
-
+<br/>
 Estou sempre buscando novas oportunidades de aprendizado.
 Fique à vontade para explorar meus repositórios e acompanhar minha jornada no desenvolvimento de software!
 
