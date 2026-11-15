@@ -2,11 +2,11 @@
 
 **Analista de TI | Automação, Integrações e Soluções com IA**
 
-Transformo **regras de negócio em soluções tecnológicas**, conectando sistemas, dados e processos por meio de automações, APIs e desenvolvimento de software.
+Construo **soluções de negócio e sistemas de ponta a ponta**, transformando regras de negócio em tecnologia e conectando sistemas, dados e processos por meio de automações, APIs e desenvolvimento de software.
 
 Atualmente, atuo no **Studio Migratório**, gerenciando e evoluindo o ecossistema Zoho One. Tenho experiência com implantação de CRM, integrações entre sistemas, desenvolvimento de ferramentas e melhoria de processos.
 
-Foco atual: evolução na construção de aplicações e soluções tecnológicas de ponta a ponta, conectando necessidades de negócio, desenvolvimento de software, integrações e automação de processos. Aprofundando conhecimentos em IA aplicada, agentes, MCP e orquestração para ampliar as possibilidades de criação e integração de sistemas.
+Foco atual: aprofundar a construção de aplicações de ponta a ponta e a IA aplicada, com agentes, MCP e orquestração.
 
 ### Tecnologias e ferramentas
 
@@ -30,7 +30,7 @@ Foco atual: evolução na construção de aplicações e soluções tecnológica
 ![Codex](https://img.shields.io/badge/Codex-333333?style=flat-square)
 ![MCP](https://img.shields.io/badge/MCP-222222?style=flat-square)
 
-<text color="secondary" size="sm">Outras plataformas com vivência em análise e migração de dados: Pipedrive e monday.com.</text>
+<sub>Outras plataformas com vivência em análise e migração de dados: Pipedrive e monday.com.</sub>
 
 ### Vamos nos conectar?
 
